@@ -1,7 +1,9 @@
 ### Hi there, I am João Paulo Nobre 👋
 
 
-<p align="center">Committed to transforming ideas into visually stunning and interactive web solutions that connect people and possibilities.</p>&nbsp;
+<p align="center">Professional transitioning into Cybersecurity.
+
+This GitHub showcases projects, labs, and studies that reflect my technical development and ongoing learning journey in Information Security..</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Joaopnobre&theme=radical&mode=weekly" />
