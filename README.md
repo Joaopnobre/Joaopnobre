@@ -1,4 +1,4 @@
-### Hi there, I'm João Paulo Nobre Medeiros 👋
+### Hi there, I'm João👋
 
 
 <p align="center">
