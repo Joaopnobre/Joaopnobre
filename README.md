@@ -1,8 +1,8 @@
 ### Hi there, I'm João Paulo Nobre Medeiros 👋
 
-<div align="center">
+<!-- <div align="center">
   <img src="banner.gif" width="60%">
-</div>
+</div>-->
 
  
 
