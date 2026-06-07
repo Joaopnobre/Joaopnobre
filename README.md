@@ -42,12 +42,12 @@ This GitHub showcases projects, labs, and studies that reflect my technical deve
 * Incident Response
 * Security Monitoring (SIEM)
 * Blue Team Operations
+   <img align="right" src="notebook_pen.png" width="200" />
 * Access Control
 * Linux Administration
 * TCP/IP Fundamentals
 * ISO 27001 Fundamentals
 
- 
 
 ## Contacts
 
