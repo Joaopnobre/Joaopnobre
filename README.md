@@ -1,9 +1,9 @@
 ### Hi there, I'm João Paulo Nobre Medeiros 👋
 
-<!-- <div align="center">
-  <img src="banner.gif" width="60%">
-</div>-->
 
+<p align="center">
+  <img src="network_banner_v3.gif" alt="Network Banner" />
+</p>
  
 
 <p align="center">
