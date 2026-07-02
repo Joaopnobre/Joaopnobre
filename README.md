@@ -7,7 +7,7 @@
  
 
 <p align="center">
-Junior Cybersecurity Professional.
+ Cybersecurity Analyst.
 
 This GitHub showcases projects, labs, and studies that reflect my technical development and ongoing learning journey in Information Security.
 
